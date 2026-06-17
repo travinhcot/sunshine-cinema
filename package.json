@@ -10,6 +10,7 @@
     "bootstrap": "^5.3.8",
     "clsx": "^2.1.1",
     "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
     "lucide-react": "^1.20.0",
     "mongodb": "^7.3.0",
     "mongoose": "^9.7.0",
@@ -45,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.3"
   }
 }
